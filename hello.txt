@@ -1,5 +1,3 @@
-
 Hello git!!!!!!
-Hello git!
 Hello world!
 
